@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 20.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 180 180" style="enable-background:new 0 0 180 180;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#3B5998;}
+	.st1{fill:#FFFFFF;}
+	.st2{fill:#55ACEE;}
+	.st3{fill:#DC4E41;}
+	.st4{fill:#B53088;}
+	.st5{fill:#CB2027;}
+	.st6{fill:#F26798;}
+	.st7{fill:#4176FA;}
+	@-webkit-keyframes pulse {
+		0% {
+		    opacity: 1;
+		    -webkit-transform: scale(1);
+		    transform: scale(1);
+		}
+		20% {
+		    opacity: 0.8;
+		}
+		100% {
+		    opacity: 0;
+		    -webkit-transform: scale(1.3);
+		    transform: scale(1.3);
+		}
+	}
+
+	@keyframes pulse {
+		0% {
+		    opacity: 1;
+		    -webkit-transform: scale(1);
+		    transform: scale(1);
+		}
+		20% {
+		    opacity: 0.8;
+		}
+		100% {
+		    opacity: 0;
+		    -webkit-transform: scale(1.3);
+		    transform: scale(1.3);
+		}
+	}
+
+	@-webkit-keyframes pulse2 {
+		0% {
+		    opacity: 1;
+		    -webkit-transform: scale(1);
+		    transform: scale(1);
+		}
+		20% {
+		    opacity: 0.8;
+		}
+		100% {
+		    opacity: 0;
+		    -webkit-transform: scale(1.3);
+		    transform: scale(1.3);
+		}
+	}
+
+	@keyframes pulse2 {
+		0% {
+		    opacity: 1;
+		    -webkit-transform: scale(1);
+		    transform: scale(1);
+		}
+		20% {
+		    opacity: 0.8;
+		}
+		100% {
+		    opacity: 0;
+		    -webkit-transform: scale(1.3);
+		    transform: scale(1.3);
+		}
+	}
+
+	@-webkit-keyframes mid {
+		0% {
+		    opacity: 1;
+		    -webkit-transform: scale(1) rotate(0deg);
+		    transform: scale(1) rotate(0deg);
+		}
+		3% {
+		    opacity: 1;
+		    -webkit-transform: scale(1.15) rotate(5deg);
+		    transform: scale(1.15) rotate(5deg);
+		}
+		5.2% {
+		    opacity: 1;
+		    -webkit-transform: scale(1.1) rotate(-5deg);
+		    transform: scale(1.1) rotate(-5deg);
+		}
+		8.2% {
+		    opacity: 1;
+		    -webkit-transform: scale(1.1) rotate(5deg);
+		    transform: scale(1.1) rotate(5deg);
+		}
+		10.2% {
+		    opacity: 1;
+		    -webkit-transform: scale(1.1) rotate(-5deg);
+		    transform: scale(1.1) rotate(-5deg);
+		}
+		12.2% {
+		    opacity: 1;
+		    -webkit-transform: scale(1.1) rotate(0deg);
+		    transform: scale(1.1) rotate(0deg);
+		}
+		100% {
+		    opacity: 1;
+		    -webkit-transform: scale(1) rotate(0deg);
+		    transform: scale(1) rotate(0deg);
+		}
+	}
+
+	@keyframes mid {
+		0% {
+		    opacity: 1;
+		    -webkit-transform: scale(1) rotate(0deg);
+		    transform: scale(1) rotate(0deg);
+		}
+		3% {
+		    opacity: 1;
+		    -webkit-transform: scale(1.15) rotate(5deg);
+		    transform: scale(1.15) rotate(5deg);
+		}
+		5.2% {
+		    opacity: 1;
+		    -webkit-transform: scale(1.1) rotate(-5deg);
+		    transform: scale(1.1) rotate(-5deg);
+		}
+		8.2% {
+		    opacity: 1;
+		    -webkit-transform: scale(1.1) rotate(5deg);
+		    transform: scale(1.1) rotate(5deg);
+		}
+		10.2% {
+		    opacity: 1;
+		    -webkit-transform: scale(1.1) rotate(-5deg);
+		    transform: scale(1.1) rotate(-5deg);
+		}
+		12.2% {
+		    opacity: 1;
+		    -webkit-transform: scale(1.1) rotate(0deg);
+		    transform: scale(1.1) rotate(0deg);
+		}
+		100% {
+		    opacity: 1;
+		    -webkit-transform: scale(1) rotate(0deg);
+		    transform: scale(1) rotate(0deg);
+		}
+	}
+
+	svg:hover .mid {
+		-webkit-transform-origin: center center;
+		-ms-transform-origin: center center;
+		transform-origin: center center;
+		-webkit-animation: mid 4s ease-in-out 1;
+		animation: mid 4s ease-in-out 1;
+	}
+
+	svg:hover .pulse {
+		-webkit-transform-origin: center center;
+		-ms-transform-origin: center center;
+		transform-origin: center center;
+		-webkit-animation: pulse 1s ease-in-out infinite;
+		animation: pulse 1s ease-in-out infinite;
+	}
+
+	svg:hover .pulse2 {
+		-webkit-transform-origin: center center;
+		-ms-transform-origin: center center;
+		transform-origin: center center;
+		-webkit-animation: pulse2 1s ease-in-out infinite;
+		animation: pulse2 1s ease-in-out infinite;
+		-webkit-animation-delay: 0.5s;
+		animation-delay: 0.5s;
+	}
+</style>
+<circle class="st3 pulse" cx="90" cy="90" r="60"/>
+<circle class="st3 pulse2" cx="90" cy="90" r="60"/>
+<circle class="st1" cx="90" cy="90" r="55"/>
+<path class="st3 mid" d="M90,30c-33.1,0-60,26.9-60,60s26.9,60,60,60s60-26.9,60-60S123.1,30,90,30z M94.2,109
+	c-6.1,7.9-17.5,10.2-26.7,7.1c-9.8-3.2-16.9-13.1-16.7-23.4C50.4,79.9,61.6,68.1,74.3,68c6.5-0.6,12.8,2,17.8,6.1
+	c-2,2.2-4.1,4.4-6.3,6.5c-4.3-2.6-9.6-4.6-14.6-2.9c-8.2,2.3-13.1,12-10.1,20c2.5,8.4,12.7,12.9,20.6,9.4c4.1-1.5,6.8-5.3,8-9.4
+	c-4.7-0.1-9.5,0-14.2-0.2c0-2.8,0-5.6,0-8.4c7.9,0,15.8,0,23.7,0C99.7,96.1,98.7,103.4,94.2,109z M128.7,96.2c-2.3,0-4.7,0-7.1,0
+	c0,2.4,0,4.7,0,7.1c-2.4,0-4.7,0-7,0c0-2.4,0-4.7,0-7.1c-2.4,0-4.7,0-7.1,0v-7c2.4,0,4.7,0,7.1,0c0-2.4,0-4.7,0.1-7.1h7
+	c0,2.4,0,4.7,0,7.1c2.4,0,4.7,0,7.1,0V96.2z"/>
+</svg>

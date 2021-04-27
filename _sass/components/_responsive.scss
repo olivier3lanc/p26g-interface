@@ -1,0 +1,45 @@
+//Responsive
+html {
+    &.touch {
+        body {
+            [data-tooltip] {
+                &>span {
+                    &.tooltip-content {
+                        display: none;
+                    }
+                }
+            }
+            #wrapper {
+                #container {
+                    width: 100%;
+                    height: 100vh;
+                    top: 0px;
+                    left: 0px;
+                }
+                @include qtr-screen(xs,sm){
+                    #container {
+                        top: 54px;
+                        height: calc(100vh - 54px);
+                    }
+                }
+            }
+            .modal {
+                &.helper {
+                    &>.touch {
+                        display: inherit;
+                        [data-tooltip] {
+                            &>span {
+                                &.tooltip-content {
+                                    display: inherit;
+                                }
+                            }
+                        }
+                    }
+                    &>.desktop {
+                        display: none;
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,9 @@
+# Jekyll LOCAL config
+title: Refonte de l'interface Paris 26 Gigapixels v2 - Non publiée  # title of the documentation
+description: >- # Description of the docs. (>- means to ignore newlines until next param)
+  Refonte de l'interface du projet Paris 26 Gigapixels
+baseurl: "/p26g-interface/_site" # the subpath of your site, e.g. /blog
+url: "http://localhost" # the base hostname & protocol for your site, e.g. http://example.com
+#permalink: /:path/:basename/:output_ext
+#destination: ../marcelrent/public/proto-app # Build relative path destination. The destination directory e.g. /blog
+# keep_files: [cache]
